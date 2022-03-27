@@ -1,5 +1,6 @@
 # matrix-effect
-epic matrix effect with python
+`epic matrix effect with python, a simple 17 lines od code`
+### code:
 ```from random import randint, randrange
 import random
 from time import sleep
