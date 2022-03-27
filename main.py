@@ -1,6 +1,4 @@
 from random import randint
-
-
 import random
 from time import sleep
 import os
