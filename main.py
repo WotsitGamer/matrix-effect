@@ -1,4 +1,3 @@
-from random import randint, randrange
 import random
 from time import sleep
 import os
